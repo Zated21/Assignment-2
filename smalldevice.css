@@ -97,4 +97,24 @@
 
     /* header-end */
     
+
+    .habit-sec{
+        flex-direction: column;
+        padding: 0px;
+        padding-top: 30px;
+    }
+
+    .habits{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .habit>p{
+        margin-bottom: 100px;
+    }
+
+    .habit-txt{
+        padding: 20px;
+    }
 }
