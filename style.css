@@ -311,6 +311,18 @@ table {
     margin-left: 420px;
   }
 
+  .activity{
+    margin-top: 10px; padding-right: 394px;
+  }
+
+  .bmi-bottom{
+    padding-left: 50px; background-color: #222222;
+  }
+
+  .input2{
+    padding-right: 81px;
+  }
+
 
   /* !Bmi_calac-End */
 

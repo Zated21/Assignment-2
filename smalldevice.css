@@ -254,5 +254,68 @@
         
     }
 
+    /* .Unique-end */
+
+    .bmi-txt{
+        margin: 0px;
+        padding: 0px;
+        padding-left: 10px;
+    }
+
+    .bmi-left{
+       padding-left: 10px;
+    }
+
+    .table{
+        padding: 0px;
+        width: 0px;
+    }
+
+    .bmi-right{
+        padding-left: 10px;
+    }
+
+    .bmi-bottom{
+        margin: 0px;
+        padding: 0px;
+        flex-direction: column;
+        
+    }
+
+    .activity{
+        padding: 0px;
+        padding: 20px 97px 20px 30px;
+    }
+
+    select{
+        padding: 13px 82px 13px 20px
+    }
+
+    .input2{
+        padding-right:0px;
+        padding: 0px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        width: fit-content;
+    }
+
+
+    
+
+    th,tr,td{
+        width: fit-content;
+        max-width: 200px;
+    }
+
+    table{
+        width: 300px;
+        margin: 0px;
+        justify-content: center;
+    }
+
+    .calc-btn{
+        padding-right: 120px;
+        left: 0px;
+    }
 }
   
