@@ -1,0 +1,100 @@
+@media screen and (max-width:576px) {
+
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .navbar{
+       display: none;
+    }
+
+    .company-name{
+        font-weight: 600px;
+        font-size: 1.5rem;
+        display:flex;
+        justify-content: space-between;
+    }
+
+    .menu{
+        position: absolute;
+        margin-left: 80%;
+    }
+
+    em{
+        width: 400px;
+    }
+    nav{
+       padding: 0px;
+       padding-top: 40px;
+       padding-left: 20px
+    }
+
+    .navbar{
+        display: ;
+    }
+
+    header{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .menu{
+        width: 30px;
+        height: 30px;
+        
+    }
+
+    .banner{
+        flex-direction: column;
+        padding: 0px;
+        
+    }
+
+    .banner-left{
+        padding: 0px;
+       
+        margin-bottom: 50px;
+      
+    }
+
+    .banner-h{
+        width: fit-content;
+        padding-left: 40px;
+        
+    }
+
+    .banner-txt{
+        width: fit-content;
+
+    }
+
+    .banner-p{
+       padding-left: 40px;
+    }
+
+    .floating-info1{
+        top: 1400px; left:40px;
+        right: 0px;
+        width: fit-content;
+    }
+
+    .banner-right>img{
+      
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    
+    .floating-info2{
+        right: 30px;
+        top: 1000px;
+    }
+    .btn{
+        padding: 10px;
+        justify-content: center;
+    }
+
+    /* header-end */
+    
+}
