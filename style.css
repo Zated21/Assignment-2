@@ -405,7 +405,17 @@ footer{
     color: #FFFFFF;
    
 }
+.bmitxt-h{
+    color:#ffff; margin-left: 290px; font-size: 1.81rem; margin-top: 52px;
+}
+.bmi-h1{
+    color:#FFFF; font-size: 1.81rem; margin-bottom: 22px; margin-top: 48px;
 
+}
+.container{
+    
+    justify-content: space-between;
+}
 .footer3{
     color: #FFFFFF;
     display: flex;

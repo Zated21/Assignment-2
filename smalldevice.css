@@ -136,6 +136,10 @@
         padding: 20px;
     }
 
+    .run-right>img{
+        width: 340px;
+    }
+
     .btn-3{
         padding: 20px 100px;
         align-self: center;
@@ -195,6 +199,8 @@
 
     input{
         padding-right: 0px;
+        padding-left: 0px;
+        width: 150px;
     }
 
     .ai-btns{
@@ -243,9 +249,12 @@
         top: 2350px;
        position: absolute;
        left: 20px;
-       gap: 40px;
+       gap: 20px;
     }
 
+    .bmitxt-h{
+        margin: 0px;
+    }
     
 
     .ai-btn{
@@ -271,6 +280,10 @@
         width: 0px;
     }
 
+    .end{
+        padding-bottom: 30px;
+    }
+
     .bmi-right{
         padding-left: 10px;
     }
@@ -282,9 +295,13 @@
         
     }
 
+    .bmi-left>h1{
+        margin-right: 0px;
+    }
+
     .activity{
         padding: 0px;
-        padding: 20px 97px 20px 30px;
+        padding: 20px 64px 20px 30px;
     }
 
     select{
@@ -292,12 +309,17 @@
     }
 
     .input2{
-        padding-right:0px;
+        margin: 0px;
         padding: 0px;
         padding-top: 13px;
         padding-bottom: 13px;
         width: fit-content;
     }
+
+    .part-1{
+        width: 300px;
+    }
+    
 
 
     
@@ -317,5 +339,31 @@
         padding-right: 120px;
         left: 0px;
     }
-}
+
+    /* bmi-end */
+
+    .team{
+        padding: 0px;
+    }
+
+    .team-img{
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .team-txt{
+        padding: 30px 40px;
+    }
+
+    /* team-end */
+
+    footer{
+        padding: 0px;
+    }
+
+    .container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding-left: 40px;
+    }
   
