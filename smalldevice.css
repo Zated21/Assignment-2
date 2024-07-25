@@ -117,4 +117,35 @@
     .habit-txt{
         padding: 20px;
     }
+
+    /* habit-end */
+
+    .run-extra{
+        padding: 0px;
+    }
+
+    .run{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .run-left{
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .btn-3{
+        padding: 20px 100px;
+        align-self: center;
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .run-extra{
+        padding: 10px 15px;
+    }
+
 }
