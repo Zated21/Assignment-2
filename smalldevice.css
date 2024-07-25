@@ -148,4 +148,111 @@
         padding: 10px 15px;
     }
 
+        
+
+    /* run-extra-end */
+
+    .Unique{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .Unique>div{
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+
+    .ai-h{
+        padding-left: 20px;
+    }
+
+    .line1{
+        left: 0px;
+    }
+
+    .span1,.span2,.span3{
+        padding: 0px;
+        font-size: 3rem;
+    }
+
+    .span1{
+        padding-left: 20px;
+    }
+
+    .span2{
+        padding-left: 40px;
+    }
+
+    .span3{
+        padding-left: 100px;
+    }
+
+    .floating2{
+        left: 0px;
+    }
+
+    input{
+        padding-right: 0px;
+    }
+
+    .ai-btns{
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .aift{
+        left: 0px;
+    }
+
+    .rightnav{
+        flex-direction: row-reverse;
+        gap: 10px;
+    }
+
+    .ai-nav{
+        margin: 0px 30px;
+        background-color: #0c0c0c;
+    }
+
+    .aip{
+        position: absolute;
+        top: 1900px;
+        left: 80px;
+        
+        font-size: 1rem;
+        
+    }
+
+    .floating2{
+        display: none;
+    }
+    .floating1{
+        display: none;
+    }
+    .line1{
+        display: none;
+    }
+    .line2{
+        display: none;
+    }
+
+    .ai-btns{
+       display: flex;
+        top: 2350px;
+       position: absolute;
+       left: 20px;
+       gap: 40px;
+    }
+
+    
+
+    .ai-btn{
+        margin-top: 30px;
+        align-items:center;
+        
+    }
+
 }
+  
